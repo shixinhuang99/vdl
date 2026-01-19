@@ -5,6 +5,7 @@ edition = "2024"
 authors = ["shixinhuang99 <shixinhuang99@gmail.com>"]
 description = "A yt-dlp wrapper desktop client for macOS built with gpui"
 repository = "https://github.com/shixinhuang99/vdl"
+license = "GPL-3.0-or-later"
 publish = false
 
 [profile.release]
